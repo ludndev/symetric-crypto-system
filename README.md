@@ -1,4 +1,4 @@
-# Symmetric Cryptosystem README
+# Symetric CryptoSystem
 
 ## Introduction
 
